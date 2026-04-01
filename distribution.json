@@ -13,7 +13,7 @@
             "description": "Servidor de supervivencia modded con mas de 400 mods.",
             "icon": "https://raw.githubusercontent.com/selvinpacheco/-AstraSMP-Distribution/main/server-icon.png",
             "version": "1.0.0",
-            "address": "astrasmp.craftnote.online:25569",
+            "address": "15.204.88.78:24454",
             "minecraftVersion": "1.20.1",
             "discord": {
                 "shortId": "AstraSMP",
