@@ -34,6 +34,16 @@
                     },
                     "subModules": [
                         {
+                            "id": "net.minecraftforge:forge:1.20.1-47.4.10:client",
+                            "name": "Forge Client JSON",
+                            "type": "VersionManifest",
+                            "artifact": {
+                                "size": 1408,
+                                "MD5": "111ad2bf5d86651d3619c506ae402057",
+                                "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-client.json"
+                            }
+                        },
+                        {
                             "id": "forge.mod:ai-improvements:1.20-0.5.2",
                             "name": "AI-Improvements-1.20-0.5.2",
                             "type": "ForgeMod",
