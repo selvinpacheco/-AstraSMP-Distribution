@@ -38,9 +38,9 @@
                             "name": "Forge Client JSON",
                             "type": "VersionManifest",
                             "artifact": {
-                                "size": 1408,
-                                "MD5": "111ad2bf5d86651d3619c506ae402057",
-                                "url": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-client.json"
+                                "size": 16554,
+                                "MD5": "eede38b0c090f69c7789cd35e753853d",
+                                "url": "https://github.com/selvinpacheco/-AstraSMP-Distribution/releases/download/v1.0.0/version.json"
                             }
                         },
                         {
